@@ -25,13 +25,13 @@
 
         .row1 {
             .kotak {
-                background-color: fuchsia;
+                background-color: orange;
             }
         }
 
         .row2 {
             .kotak {
-                background-color: lightblue;
+                background-color: yellow;
             }
         }
     </style>
